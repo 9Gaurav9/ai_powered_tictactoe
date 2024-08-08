@@ -64,10 +64,5 @@ Feel free to contribute by creating issues or submitting pull requests. Contribu
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or feedback, please contact [your email address] or open an issue on the [GitHub repository](https://github.com/yourusername/tictactoe).
-
----
 
 Enjoy playing Tic-Tac-Toe!
